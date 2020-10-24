@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Buenas!
+
+Este es un repositorio de juguete para el curso de CI de coursera
